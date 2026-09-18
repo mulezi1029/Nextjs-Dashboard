@@ -1,0 +1,22 @@
+app/ui/dashboard/latest-invoices.tsx
+  h_3876a1d87f96ce 4
+app/ui/dashboard/cards.tsx
+  h_3876a1d87f96ce 7
+app/ui/login-form.tsx
+  h_3876a1d87f96ce 1
+app/ui/invoices/breadcrumbs.tsx
+  h_3876a1d87f96ce 3
+app/ui/dashboard/revenue-chart.tsx
+  h_3876a1d87f96ce 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "4d9465048fa96104d0115d24a7b565999ac8e48b",
+  "prompts": {},
+  "humans": {
+    "h_3876a1d87f96ce": {
+      "author": "cy <cheny56@trip.com>"
+    }
+  }
+}
