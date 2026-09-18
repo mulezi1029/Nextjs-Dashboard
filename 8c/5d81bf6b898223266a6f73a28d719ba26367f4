@@ -1,0 +1,14 @@
+app/ui/dashboard/nav-links.tsx
+  h_3876a1d87f96ce 1,7,9-10,24-26,35-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "8c5d81bf6b898223266a6f73a28d719ba26367f4",
+  "prompts": {},
+  "humans": {
+    "h_3876a1d87f96ce": {
+      "author": "cy <cheny56@trip.com>"
+    }
+  }
+}
