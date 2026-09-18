@@ -1,0 +1,14 @@
+app/ui/customers/table.tsx
+  h_3876a1d87f96ce 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "7dd90b6f9a01374f222ac0dcff3718d79c0d01a0",
+  "prompts": {},
+  "humans": {
+    "h_3876a1d87f96ce": {
+      "author": "cy <cheny56@trip.com>"
+    }
+  }
+}
